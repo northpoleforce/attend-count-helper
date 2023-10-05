@@ -9,6 +9,6 @@
 4. 处理后的`output.xlsx`文件即为成果
 ![img_1.png](img_1.png)
 ## 其他说明
-`func_check.py`为用于验证功能的临时代码
-`learning.py`为充满了痕迹的学习过程中的代码
+`func_check.py`为用于验证功能的临时代码 \
+`learning.py`为充满了痕迹的学习过程中的代码 \
 `main.py`为最终成形的代码
